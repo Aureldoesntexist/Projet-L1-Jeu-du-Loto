@@ -1,6 +1,5 @@
 
         
-# <p align="center">Projet de 1ère année de licence d'informatique</p>
 <p align="center">Projet en Java réalisé sous Netbeans</p>
 
 Actions à réaliser avant le démarrage
